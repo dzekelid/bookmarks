@@ -1,0 +1,223 @@
+{
+	"name": "Streadata.io API Gallery - Bookmarks",
+	"description": "This is a repository of bookmarks APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/bookmarks.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://bookmarks.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Eventbrite",
+			"x-api-slug": "eventbrite",
+			"description": "Eventbrite brings people together through live experiences. Discover events that match your passions, or create your own with online ticketing tools.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/193-eventbrite.jpg",
+			"humanURL": "http://eventbriteapi.com",
+			"baseURL": "https://www.eventbrite.com//%7Bdata-type%7D/",
+			"tags": "Bookmarks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/eventbrite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pinboard",
+			"x-api-slug": "pinboard",
+			"description": "Pinboard is a bookmarking website for introverted people in a hurry. The focus of the site is less on socializing, and more on speed and utility. Pinboard tries to offer useful features without getting in your way. My highest priority is keeping your data safe over the long term.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/240-pinboard.jpg",
+			"humanURL": "http://pinboard.in",
+			"baseURL": "https://api.pinboard.in//v1",
+			"tags": "Bookmarks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/pinboard/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Readability",
+			"x-api-slug": "readability",
+			"description": "Readability is a free/pay reading platform that delivers a great reading experience and provides a model where your reading activity can directly compensate publishers and writers. Readability started off as a simple, Javascript-based reading tool that turned any web page into a customizable reading view. It was released by Arc90 (as an Arc90 Lab experiment), a New York City based design and technology shop, back in early 2009.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/readability.jpg",
+			"humanURL": "http://www.readability.com",
+			"baseURL": "https:///",
+			"tags": "Bookmarks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/readability/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Copyto.co",
+			"x-api-slug": "copyto-co",
+			"description": "Connect2Field provides field service management applications to service businesses of all sizes around the globe. Connect2Field is the name of both the company and the software application it supplies.Any type of service business that needs to manage the work of staff remotely can benefit from Connect2Field.Connect2Field offers: job scheduling software, field service software, service industry software, job dispatch software and mobile job management solutions. A simple subscription-based pricing model is used.?????Connect2Field is a private company headquartered in Sydney, Australia, with representation in New Zealand, United States, Canada, United Kingdom, Asia and Ireland.Connect2Field has strategic partnerships with leading SMS, Fax, Electronic Payment and Accounting Software businesses.Connect2Field is a secure, web-based application built on the Microsoft Windows Azure cloud architecture. This enables users to work from anywhere in the world through any web browser.Service businesses can dispatch and manage jobs with easy, schedule based on location or priority, set reoccurring jobs, or just one off service calls.Field workers receive their jobs via Internet-enabled mobile device (smartphones, PDAs, Notebook computers, Iphone, iPads etc), and update their status in real time. Managers can now work closer with their teams, and have information on hand when needed. Customers also have the ability to view job status, create jobs, view invoice history and scheduler.Connect2Field integrates with many different web based applications. Customer contacts and invoices are transferred automatically to reduce office staff administration. This reduces paper work and eliminates double handling.With an integrated API (application programming interface), a business???????s website can be linked to capture information directly into Connect2Field to extend service direct to customers.Connect2Field is available globally.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/copyto.png",
+			"humanURL": "http://copyto.co",
+			"baseURL": "https:///",
+			"tags": "Bookmarks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/copyto-co/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "historio.us",
+			"x-api-slug": "historio-us",
+			"description": "Finally, bookmarking you can love--historious saves you time by helping you find webpages you saw before. Bookmark sites with a single click, then find them again by searching for any word in the content of the page. Bookmark (we call it historify) your favorite sites with just a single click. No categories to select or forms to fill out, and it works on all browsers! Search your historified sites using a simple search box. Dont wade through lists of obscure titles, enter a few keywords you remember from the content of the page and youre off!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/historius.jpg",
+			"humanURL": "http://historio.us/",
+			"baseURL": "https:///",
+			"tags": "Bookmarks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/historio-us/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "EasyBib",
+			"x-api-slug": "easybib",
+			"description": "Automatic works cited and bibliography formatting for MLA, APA and Chicago/Turabian citation styles. Now supports 7th edition of MLA.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/767-easybib.jpg",
+			"humanURL": "http://www.easybib.com",
+			"baseURL": "https:///",
+			"tags": "Bookmarks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/easybib/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Instructure",
+			"x-api-slug": "instructure",
+			"description": "Instructure makes software that makes smarter people. Products include Canvas LMS, Bridge and Canvas Network.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/820-instructure.jpg",
+			"humanURL": "http://instructure.com",
+			"baseURL": "https://canvas.instructure.com//api/v1",
+			"tags": "Bookmarks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/instructure/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pocket",
+			"x-api-slug": "pocket",
+			"description": "When you find something you want to view later, put it in Pocket.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1114-pocket.jpg",
+			"humanURL": "http://getpocket.com",
+			"baseURL": "https:///",
+			"tags": "Bookmarks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/pocket/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The Web Blend",
+			"x-api-slug": "the-web-blend",
+			"description": "The Web Blend SEO and UX Tools is a bundled collection of best seo/ux tools website. We offer all for free of charge, Such as XML Sitemap Generator, Plagiarism Checker, Article Rewriter & more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1179-the-web-blend.jpg",
+			"humanURL": "http://www.thewebblend.com/api",
+			"baseURL": "https:///",
+			"tags": "Bookmarks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/the-web-blend/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "thinkery",
+			"x-api-slug": "thinkery",
+			"description": "Thinkery is a fast and lightweight tool for storing notes, bookmarks, todos, organized through #hashtags. Bookmarks are stored in full-text. Android and iOS app available.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1736-thinkery.jpg",
+			"humanURL": "https://thinkery.me/",
+			"baseURL": "https:///",
+			"tags": "Bookmarks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/thinkery/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Hacker News",
+			"x-api-slug": "hacker-news",
+			"description": "Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by Paul Grahams investment fund and startup incubator, Y Combinator.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hn-246x0w.jpg",
+			"humanURL": "https://news.ycombinator.com/",
+			"baseURL": "https://hacker-news.firebaseio.com//v0",
+			"tags": "Bookmarks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/hacker-news/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Bookmarks",
+	"include": [
+		{
+			"name": "Eventbrite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/eventbrite/apis.yaml"
+		},
+		{
+			"name": "Pinboard",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/pinboard/apis.yaml"
+		},
+		{
+			"name": "Readability",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/readability/apis.yaml"
+		},
+		{
+			"name": "Copyto.co",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/copyto-co/apis.yaml"
+		},
+		{
+			"name": "historio.us",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/historio-us/apis.yaml"
+		},
+		{
+			"name": "EasyBib",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/easybib/apis.yaml"
+		},
+		{
+			"name": "Instructure",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/instructure/apis.yaml"
+		},
+		{
+			"name": "Pocket",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/pocket/apis.yaml"
+		},
+		{
+			"name": "The Web Blend",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/the-web-blend/apis.yaml"
+		},
+		{
+			"name": "thinkery",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/thinkery/apis.yaml"
+		},
+		{
+			"name": "Hacker News",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/hacker-news/apis.yaml"
+		}
+	]
+}

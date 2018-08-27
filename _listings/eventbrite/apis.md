@@ -7,11 +7,48 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/193-eventb
 x-kinRank: "9"
 x-alexaRank: "643"
 tags: Bookmarks
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/eventbrite/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Eventbrite - Get Users Bookmarks
+  x-api-slug: usersidbookmarks-get
+  description: Gets all the user&#8217;s saved events.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/193-eventbrite.jpg
+  humanURL: http://eventbriteapi.com
+  baseURL: https://www.eventbrite.com//%7Bdata-type%7D/
+  tags: Events, Tickets, Events, My API Stack, API LIfeyclessss, Stack Network, Stack,
+    Marketplace, Technology, Mobile, internet, API Provider, Tickets, Profiles, Registrations,
+    General Data, Relative Data, Pedestal, Historical Data API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/eventbrite/usersidbookmarks-get-openapi.md
+- name: Eventbrite - Post Users Bookmarks Save
+  x-api-slug: usersidbookmarkssave-post
+  description: 'Adds a new bookmark for the user. Returns {&quot;created&quot;: true}.'
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/193-eventbrite.jpg
+  humanURL: http://eventbriteapi.com
+  baseURL: https://www.eventbrite.com//%7Bdata-type%7D/
+  tags: Events, Tickets, Events, My API Stack, API LIfeyclessss, Stack Network, Stack,
+    Marketplace, Technology, Mobile, internet, API Provider, Tickets, Profiles, Registrations,
+    General Data, Relative Data, Pedestal, Historical Data API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/eventbrite/usersidbookmarkssave-post-openapi.md
+- name: Eventbrite - Post Users Bookmarks Unsave
+  x-api-slug: usersidbookmarksunsave-post
+  description: 'Removes the specified bookmark from the event for the user. Returns
+    {&quot;deleted&quot;: true}.'
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/193-eventbrite.jpg
+  humanURL: http://eventbriteapi.com
+  baseURL: https://www.eventbrite.com//%7Bdata-type%7D/
+  tags: Events, Tickets, Events, My API Stack, API LIfeyclessss, Stack Network, Stack,
+    Marketplace, Technology, Mobile, internet, API Provider, Tickets, Profiles, Registrations,
+    General Data, Relative Data, Pedestal, Historical Data API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/eventbrite/usersidbookmarksunsave-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://europeana.api.gallery.streamdata.io

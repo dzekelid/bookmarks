@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/240-pinboa
 x-kinRank: "9"
 x-alexaRank: "45688"
 tags: Bookmarks
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/bookmarks/master/_listings/pinboard/apis.md
 specificationVersion: "0.14"
 apis: []
